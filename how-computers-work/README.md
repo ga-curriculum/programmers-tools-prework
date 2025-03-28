@@ -18,7 +18,7 @@ Take a quick glance around you and count up the number of computers you see in y
 
 Once you’re done counting keep reading.
 
-![](./assets/count.png)
+![](./assets/tablet.png)
 
 <br>
 
