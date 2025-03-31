@@ -7,6 +7,9 @@
 
 *author: [Roley Dallas](https://generalassemb.ly/instructors/riley-dallas/8760) | web developer and data scientist*
 
+----
+<br>
+
 Goldilocks wanted a bed that was not too hard, or too soft, or too hot, or too cold. Like Goldilocks, you might want to find that value that’s right in the middle. But when you’re dealing with a large, complex data set, that can be more complicated than it sounds. In this lesson, we’ll dive into the statistics that will help you see the range of options and find where “center” actually is.
 
 ## Topics

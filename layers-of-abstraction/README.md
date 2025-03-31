@@ -7,6 +7,10 @@
 
 *author: [Greg Gordeau](https://www.linkedin.com/in/godreau/) | software developer*
 
+----
+<br>
+
+
 01001000 01100101 01101100 01101100 01101111 00100000 01100001 01101110 01100100 00100000 01110111 01100101 01101100 01100011 01101111 01101101 01100101 00100000 01110100 01101111 010 Wait... don’t go! Sorry about that. No, you are not in the matrix. We were just saying hello in binary. In this lesson, you’ll learn why we don’t have to know how to speak binary to use computers. Thank goodness!
 
 ## Topics
