@@ -5,6 +5,8 @@
 
 ## How Computers Work ( 20 min )
 
+*author: [Roley Dallas](https://generalassemb.ly/instructors/riley-dallas/8760) | web developer and data scientist*
+
 Goldilocks wanted a bed that was not too hard, or too soft, or too hot, or too cold. Like Goldilocks, you might want to find that value that’s right in the middle. But when you’re dealing with a large, complex data set, that can be more complicated than it sounds. In this lesson, we’ll dive into the statistics that will help you see the range of options and find where “center” actually is.
 
 ## Topics
@@ -120,6 +122,11 @@ Sometimes, the output of one computer might be the input for another, like when 
 
 [TODO]- video
 
+## Wrap up
+
+Eager to learn more about the modern computer’s storied past?
+
+Check out CNN’s interactive [highlight reel](https://money.cnn.com/interactive/technology/computing-power-timeline/) or this thorough [timeline](https://www.computerhistory.org/timeline/) from the Computer History Museum.
 
 ### Up Next...
 
