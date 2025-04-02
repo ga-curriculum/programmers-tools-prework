@@ -1,10 +1,8 @@
 <h1>
-  <span class="headline">Python Pre-Work</span>
+  <span class="headline">Programmer's Tools</span>
   <span class="subhead">References</span>
 </h1>
 
 ## Lesson references
 
-- [Interactive version](https://pypl.github.io/PYPL.html) of the worldwide popularity chart 
-- [Python Exceptions](https://docs.python.org/3/library/exceptions.html)
-- [Python Errors](https://docs.python.org/3/tutorial/errors.html)
+Check out this [cheat sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/), there's resources out there to help you get familiar with the Command Line.
