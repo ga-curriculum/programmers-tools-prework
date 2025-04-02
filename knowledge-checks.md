@@ -28,7 +28,7 @@ Select the best answer.
 
 - Correct: `rm -r ~/sales`
 
-- Incorrect: `Username`
+- Incorrect: `delete sales`
 
 - Incorrect: `rm -r Parent directory`
 
@@ -40,4 +40,9 @@ Assuming `Documents` is a directory located within the working directory of the 
 
 Select the best answer.
 
-[TODO]
+- Changes into the Documents directory and lists all contents
+- (Correct): Remains in the current directory and lists all contents of the Documents directory
+- Remains in the current directory and lists only the non-hidden contents of the Documents directory
+- Changes into the Documents directory and lists its non-hidden contents
+
+Correct:The `ls -a` command lists both the hidden and non-hidden contents of the `Documents` directory while staying in the current directory.

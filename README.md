@@ -15,9 +15,9 @@ Welcome to our rogramming Tools! In just over an hour, this mini course will int
 | -------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | [How Computers Work](./how-computers-work/README.md)                     | 20 min      | [Summary here]
 | [Introducing the Layers of Abstraction](./layers-of-abstraction/README.md)                         | 15 min      | [Summary here]                                                                            |
-| [Accessing and Navigating the Command Line Interface](./command-line/README.md) | 30 min      | [Summary here] |
-| [More?]()                 | 0 min      | [Summary here]                       |
-| **Total content**                                                                | 1 hr 5 min |                                         |
+| [Accessing and Navigating the Command Line Interface](./command-line/README.md) | 50 min      | [Summary here] |
+| [Bootcamp Mindset](./bootcamp-mindset/README.md)                 | 10 min      | [Summary here]                       |
+| **Total content**                                                                | 1 hr 35 min |                                         |
 
 ## References
 
