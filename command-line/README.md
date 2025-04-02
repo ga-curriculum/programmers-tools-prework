@@ -15,9 +15,8 @@ Despite what its name implies, the command line interface (CLI) isn’t a group 
 
 ## Topics
 
-- Command Line Interface
-- Mac, Linux, and Windows Users
-- Basic Commands: cd and ls
+- Explain the command line and why developers use it.
+- Navigate through your computer’s files structure via the CLI.
 
 ## Ooey GUI
 
@@ -33,9 +32,11 @@ When developers navigate their computers, they tend to use the command line inte
 
 By the end of this lesson, you'll be able to:
 
-- Explain the command line and why developers use it.
-- Navigate through your computer’s files structure via the CLI.
+- Understand the differences between the CLI and GUI.
+- Analyze and categorize key components of a computer's file system, including root and home directories, and explain their significance using real-world analogies.
 - Practice using basic commands.
+- Write your first command and see your first error.
+- Find a file using the command line.
 
 ## Why CLI?
 
@@ -442,6 +443,8 @@ In this lesson, you accessed your computer’s command line interface (CLI) and 
 Like power tools, commands should be used only as directed. You are now speaking directly to your computer, and it’s possible to execute commands with unintended consequences if you type some seemingly random letters into your terminal.
 
 If you stick to using commands as instructed in the pre-work or in class, you’ll be safe.
+
+Check out this [cheat sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/), there's resources out there to help you get familiar with the Command Line.
 
 ### Up Next...
 
