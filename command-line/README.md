@@ -75,7 +75,7 @@ We access the command line using a *terminal application*. Terminal applications
 On Mac and Linux, this application is called “Terminal.” There are several terminal applications for Windows, such as “PowerShell” and “Command Prompt,” but we will be using a tool called “Git Bash”. To access the terminal application:
 
 - On a Mac, press `⌘ command + space` to bring up the spotlight search. Type in “terminal” and press `return`.
-- Use your system search to launch the Windows Terminal application in Windows 10 or the Terminal application in Windows 11. Despite the difference in names, a search for Terminal should work on either OS.  Wee will be using Bit Bash eventually, try to go to the start menu, type “Git Bash” into the search, then open the application. If that doesn’t work, visit the [Git website](https://git-scm.com/downloads) and click “Windows.”
+- Use your system search to launch the Windows Terminal application in Windows 10 or the Terminal application in Windows 11. Despite the difference in names, a search for Terminal should work on either OS.  We will be using Bit Bash eventually, try to go to the start menu, type “Git Bash” into the search, then open the application. If that doesn’t work, visit the [Git website](https://git-scm.com/downloads/win) and click “Windows.”
 
 ### Home Directory
 
