@@ -3,7 +3,7 @@
   <span class="subhead">Welcome</span>
 </h1>
 
-## Welcome to Data Science!
+## Welcome to Data Science! (1 hr.)
 
 We couldn’t be more excited to join you in your journey toward a new career. By incorporating feedback from hundreds of students that have come before you, we’ve focused on making this course as worthwhile as possible. You have exciting work ahead, but it’s going to take energy, time, and collaboration.
 
@@ -29,7 +29,7 @@ First things first: Our educational values. These are General Assembly's guiding
 
 ## The World of Data Science
 
-[TODO]- video
+<a href="https://generalassembly.wistia.com/medias/gfvg4t10dr"><img src="https://embed-ssl.wistia.com/deliveries/019d25de56dbbf60aa0652e2fdc0dd2cff79e38c.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="control-flow" width="450" height="253" /></a>
 
 ## How to Succeed
 
@@ -39,13 +39,16 @@ Your ability to succeed in this program is not determined by background but by y
 
 ## Getting the Most From Your Experience
 
-[TODO]- video
-[TODO]- DS workflow here?
-[TODO]- another video?
+<a href="https://generalassembly.wistia.com/medias/ijg94y0yuj"><img src="https://embed-ssl.wistia.com/deliveries/2cce550833bd5cf233483d8bff907a52c196edcb.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="control-flow" width="450" height="253" /></a>
+
+## Some Words of Advice
+
+<a href="https://generalassembly.wistia.com/medias/mmm8flbd83"><img src="https://embed-ssl.wistia.com/deliveries/cf893e0b6a2dd954e9451812933ab89643bec419.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="control-flow" width="450" height="253" /></a>
 
 ----
 # What Is Data Science?
-[TODO] author [Haley Boyan](http://linkedin.com/in/hboyan) data scientist
+
+*author: [Haley Boyan](http://linkedin.com/in/hboyan) | data scientist*
 
 ### Topics
 
