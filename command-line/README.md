@@ -114,7 +114,7 @@ This might be the first time you’re seeing this window, so let’s break it do
 
 - Write your first command and see your first error.
 
-[TODO]- video or replace with text.
+<a href="https://generalassembly.wistia.com/medias/jgwe4s75fw"><img src="https://embed-ssl.wistia.com/deliveries/8496ef9ed2ec95ea90364835de8934de.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="control-flow" width="450" height="253" /></a>
 
 Since the computer is ready to receive input, let's type in a command:
 
@@ -408,7 +408,7 @@ When you're done, you should be able to run the `ls` command in the `ga` directo
 
 ## Using the Command Line
 
-[TODO]- video
+<a href="https://generalassembly.wistia.com/medias/sjnhxrdelv"><img src="https://embed-ssl.wistia.com/deliveries/8e435f26a2b9344c4e98e208634601710ec4dc52.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="control-flow" width="450" height="253" /></a>
 
 ## Test Yourself!
 # Where in the World?!

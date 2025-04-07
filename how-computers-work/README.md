@@ -64,7 +64,7 @@ These days, it’s hard to go about our daily lives without relying on a compute
 
 ## A Brief History of Computing
 
-[TODO] - Video
+<a href="https://generalassembly.wistia.com/medias/m6l10tusrj"><img src="https://embed-ssl.wistia.com/deliveries/5ddd9f05f483b01b25342164988669e3.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="control-flow" width="450" height="253" /></a>
 
 
 ### How Computers Work
@@ -123,7 +123,7 @@ Sometimes, the output of one computer might be the input for another, like when 
 
 ## Putting It All Together
 
-[TODO]- video
+<a href="https://generalassembly.wistia.com/medias/jy7e1q2ywh"><img src="https://embed-ssl.wistia.com/deliveries/c8d7d881a842f618d6c30177d574ae45.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="control-flow" width="450" height="253" /></a>
 
 ## Wrap up
 
