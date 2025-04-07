@@ -339,7 +339,7 @@ Here is another visual that breaks down this process with an added component at 
 
 ### Up Next...
 
-We are going to dive into Python, the free and simple programming language that a Data Scientist must know.  Let's get started with out Python Prework!
+We are going to dive into Python, the free and simple programming language that a Data Scientist must know.  Let's get started with our Python Prework!
 
 <br>
 
