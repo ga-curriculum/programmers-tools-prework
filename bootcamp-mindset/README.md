@@ -9,7 +9,7 @@ Oftentimes, the biggest obstacle to success is not a lack of technical knowledge
 
 ## From fixed to growth mindset
 
-People with a *fixed mindset* believe that their abilities are fixed traits that they were born with and can't change. They believe that:
+People with a _fixed mindset_ believe that their abilities are fixed traits that they were born with and can't change. They believe that:
 
 - They are either good at something or not, and no amount of effort can change that.
 - It's better to give up when things get hard to protect their ego or self-image.
@@ -19,7 +19,7 @@ People with a *fixed mindset* believe that their abilities are fixed traits that
 
 Eventually, people with a fixed mindset stop showing up.
 
-On the other hand, people with a *growth mindset* believe that effort leads to learning and growth and that they can develop their abilities through hard work, good strategies, and help from others. They believe that:
+On the other hand, people with a _growth mindset_ believe that effort leads to learning and growth and that they can develop their abilities through hard work, good strategies, and help from others. They believe that:
 
 - They should seek out feedback because failure is an opportunity to grow.
 - They should compare themselves to who they were yesterday.
