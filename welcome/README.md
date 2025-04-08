@@ -29,7 +29,7 @@ First things first: Our educational values. These are General Assembly's guiding
 
 ## The World of Data Science
 
-<a href="https://generalassembly.wistia.com/medias/gfvg4t10dr"><img src="https://embed-ssl.wistia.com/deliveries/019d25de56dbbf60aa0652e2fdc0dd2cff79e38c.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="control-flow" width="450" height="253" /></a>
+<a href="https://generalassembly.wistia.com/medias/gfvg4t10dr"><img src="https://embed-ssl.wistia.com/deliveries/019d25de56dbbf60aa0652e2fdc0dd2cff79e38c.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="intro" width="450" height="253" /></a>
 
 ## How to Succeed
 
@@ -39,7 +39,7 @@ Your ability to succeed in this program is not determined by background but by y
 
 ## Getting the Most From Your Experience
 
-<a href="https://generalassembly.wistia.com/medias/ijg94y0yuj"><img src="https://embed-ssl.wistia.com/deliveries/2cce550833bd5cf233483d8bff907a52c196edcb.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="control-flow" width="450" height="253" /></a>
+<a href="https://generalassembly.wistia.com/medias/ijg94y0yuj"><img src="https://embed-ssl.wistia.com/deliveries/2cce550833bd5cf233483d8bff907a52c196edcb.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="intro" width="450" height="253" /></a>
 
 ## Some Words of Advice
 
@@ -48,7 +48,7 @@ Your ability to succeed in this program is not determined by background but by y
 ----
 # What Is Data Science?
 
-_author: [Haley Boyan](http://linkedin.com/in/hboyan) | data scientist_
+*author: [Haley Boyan](http://linkedin.com/in/hboyan) : data scientist*
 
 ### Topics
 
@@ -225,7 +225,7 @@ Whether you’ve collected your own data or are working with data prepared by ot
 
 ## Step 2: Preparing Our Data (Cont.)
 
-Data scientists frequently joke that they spend about 80 percent of their time cleaning data and only 20 percent actually creating predictive models. In other words, _data cleaning is a fact of life_.
+Data scientists frequently joke that they spend about 80 percent of their time cleaning data and only 20 percent actually creating predictive models. In other words, *data cleaning is a fact of life*.
 
 Data cleaning methods include, but are not exclusive to:
 
@@ -278,7 +278,7 @@ Our hypothesis from Step 1 should guide our approach and analysis in Steps 2 and
 
 You may be thinking, “Is it really that simple?”
 
-Yes and no. We’ve simplified this process a bit; selecting and building models is both an art and a science. For one thing, there are _many_ different types of models and approaches to choose from.
+Yes and no. We’ve simplified this process a bit; selecting and building models is both an art and a science. For one thing, there are *many* different types of models and approaches to choose from.
 
 However, most data practitioners don’t memorize all of them — they merely learn to associate certain kinds of problems with certain kinds of models. When they encounter new problems, they do what any of us do: [They look them up](https://datascience.stackexchange.com/)!
 
