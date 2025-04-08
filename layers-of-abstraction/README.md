@@ -5,7 +5,7 @@
 
 ## Introducing the Layers of Abstraction ( 15 min )
 
-_author: [Greg Gordeau](https://www.linkedin.com/in/godreau/) | software developer_
+*author: [Greg Gordeau](https://www.linkedin.com/in/godreau/) : software developer*
 
 ----
 <br>
@@ -19,7 +19,7 @@ _author: [Greg Gordeau](https://www.linkedin.com/in/godreau/) | software develop
 
 ## Why We’re Here
 
-**Binary** is the language that all computers speak at their most basic level. It’s a _machine language_ that’s generally unreadable by humans. Luckily for all of us, we don’t have to start communicating in 1s and 0s in order to use computers or even program them.
+**Binary** is the language that all computers speak at their most basic level. It’s a *machine language* that’s generally unreadable by humans. Luckily for all of us, we don’t have to start communicating in 1s and 0s in order to use computers or even program them.
 
 ![](./assets/binary.png)
 
@@ -79,7 +79,7 @@ So far, we’ve covered machine language — again, that’s the series of 1s an
 
 The next step away from machine language is **assembly**.
 
-Assembly is a sequence of instructions written by a programmer, which is then translated by an _assembler_ into the 1s and 0s that computer hardware can recognize.
+Assembly is a sequence of instructions written by a programmer, which is then translated by an *assembler* into the 1s and 0s that computer hardware can recognize.
 
 ## Level 2: Programming Languages
 
@@ -101,7 +101,7 @@ Modern computers and most programs communicate with the world through a graphica
 
 By contrast, the **command line interface** (CLI) — also called a **terminal** — is a software application that interfaces with program APIs more directly, using text instead of graphics.
 
-As a general rule of thumb, the _prettier_ your screen, the greater your level of abstraction. The CLI is extremely utilitarian, with no pictures, no colors, just text.
+As a general rule of thumb, the *prettier* your screen, the greater your level of abstraction. The CLI is extremely utilitarian, with no pictures, no colors, just text.
 
 ![](./assets/gui.png)
 
