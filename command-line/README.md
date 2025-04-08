@@ -5,7 +5,7 @@
 
 ## Accessing and Navigating the Command Line Interface ( 50 min )
 
-*author: [Mike Dang](https://generalassemb.ly/instructors/mike-dang/5451) | technical sales lead and web development instructor*
+_author: [Mike Dang](https://generalassemb.ly/instructors/mike-dang/5451) | technical sales lead and web development instructor_
 
 ----
 <br>
@@ -56,13 +56,13 @@ We can perform actions using the command line by **entering commands**.
 
 There’s a command to perform virtually any task on your computer.
 
-No, there isn’t a `self destruct` command. No, there isn’t an `eject seat` command. And no, there isn’t a time `travel command`. However, there *are* commands for opening applications, creating new files, and copying files from one place to another — you know, real-life practical stuff.
+No, there isn’t a `self destruct` command. No, there isn’t an `eject seat` command. And no, there isn’t a time `travel command`. However, there _are_ commands for opening applications, creating new files, and copying files from one place to another — you know, real-life practical stuff.
 
 ## From Here On Out
 
 For the rest of this lesson, we’re going to walk through some of the most common commands developers use in the terminal.
 
-We *highly* recommend that you follow along on your own!
+We _highly_ recommend that you follow along on your own!
 
 If we may offer some more unsolicited advice, we also suggest getting comfortable with a shortcut: `command + tab` on Mac and `alt + tab` on Windows.
 
@@ -70,7 +70,7 @@ This will allow you to quickly toggle between the browser on which you’re view
 
 ## Open the Terminal
 
-We access the command line using a *terminal application*. Terminal applications act as a user interface for the *shell*, which processes your commands.  How you open your terminal application will depend upon your OS.
+We access the command line using a _terminal application_. Terminal applications act as a user interface for the _shell_, which processes your commands.  How you open your terminal application will depend upon your OS.
 
 On Mac and Linux, this application is called “Terminal.” There are several terminal applications for Windows, such as “PowerShell” and “Command Prompt,” but we will be using a tool called “Git Bash”. To access the terminal application:
 
@@ -114,7 +114,7 @@ This might be the first time you’re seeing this window, so let’s break it do
 
 - Write your first command and see your first error.
 
-<a href="https://generalassembly.wistia.com/medias/jgwe4s75fw"><img src="https://embed-ssl.wistia.com/deliveries/8496ef9ed2ec95ea90364835de8934de.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="control-flow" width="450" height="253" /></a>
+<a href="https://generalassembly.wistia.com/medias/jgwe4s75fw"><img src="https://embed-ssl.wistia.com/deliveries/8496ef9ed2ec95ea90364835de8934de.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="cli" width="450" height="253" /></a>
 
 Since the computer is ready to receive input, let's type in a command:
 
@@ -176,7 +176,7 @@ The path from the store to our specific soup is still highlighted, but we've add
 
 A file system on a computer follows a lot of the same patterns. Imagine you were finding some music you made on your computer.
 
-You'd start in the *root* directory - `/`. This directory holds all the other directories and files. It's like the store in our example. Then, you'd move into the Users directory. From here, move to your specific user directory (the *user root* or *home* directory). Finally, you'd move into your *Music* directory, where you would find your important music!
+You'd start in the _root_ directory - `/`. This directory holds all the other directories and files. It's like the store in our example. Then, you'd move into the Users directory. From here, move to your specific user directory (the _user root_ or _home_ directory). Finally, you'd move into your _Music_ directory, where you would find your important music!
 
 Another visual for you:
 
@@ -184,15 +184,15 @@ Another visual for you:
 
 <br>
 
-Above, you can see the path to the beats file visualized. The word path, or more accurately, *absolute path*, actually has a meaning in this context - it's the unique location for every file or directory in the file system. Each directory in the path is followed by a `/`. The *absolute path* for the beats file is:
+Above, you can see the path to the beats file visualized. The word path, or more accurately, _absolute path_, actually has a meaning in this context - it's the unique location for every file or directory in the file system. Each directory in the path is followed by a `/`. The _absolute path_ for the beats file is:
 
 `/Users/student/Music/beats`
 
-- 📚 The *root* directory is denoted by a single forward slash (`/`) in Unix-based systems. It is the top-level directory in a file system hierarchy. It is the starting point for the entire file system, and all other directories and files are organized inside it.
+- 📚 The _root_ directory is denoted by a single forward slash (`/`) in Unix-based systems. It is the top-level directory in a file system hierarchy. It is the starting point for the entire file system, and all other directories and files are organized inside it.
 
-- The *home* directory is the personal directory assigned to each user on a system. The home directory is the default location where user-specific configuration files, personal documents, and other data are stored. There's a shorthand for this directory: `~`.
+- The _home_ directory is the personal directory assigned to each user on a system. The home directory is the default location where user-specific configuration files, personal documents, and other data are stored. There's a shorthand for this directory: `~`.
 
-- The *absolute path* to a file is where the file is located from the perspective of the *root* directory.
+- The _absolute path_ to a file is where the file is located from the perspective of the _root_ directory.
 
 
 # Basic Commands
@@ -297,7 +297,7 @@ Let's write and execute a command to change to that directory.
 
 In this line, `cd` is the command, and `Music` is the *command argument*. Notice the space between them.
 
-`Music` is also a *relative path*. A *relative path* is the path from the perspective of the current directory. We'll use relative paths more often than absolute paths.
+`Music` is also a _relative path_. A _relative path_ is the path from the perspective of the current directory. We'll use relative paths more often than absolute paths.
 
 ![](./assets/cd.png)
 
@@ -305,7 +305,7 @@ In this line, `cd` is the command, and `Music` is the *command argument*. Notice
 
 You could supply an absolute path as the argument if you wanted.
 
-- 📚 A *relative path* is the path to a directory or file from the perspective of the current working directory. This contrasts from an *absolute path* which is written from the perspective of the *root* or `/` directory.
+- 📚 A _relative path_ is the path to a directory or file from the perspective of the current working directory. This contrasts from an _absolute path_ which is written from the perspective of the _root_ or `/` directory.
 
 If we rerun `pwd`, we'll see that we're now in `/Users/student/Music` (or something similar).
 
@@ -408,7 +408,7 @@ When you're done, you should be able to run the `ls` command in the `ga` directo
 
 ## Using the Command Line
 
-<a href="https://generalassembly.wistia.com/medias/sjnhxrdelv"><img src="https://embed-ssl.wistia.com/deliveries/8e435f26a2b9344c4e98e208634601710ec4dc52.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="control-flow" width="450" height="253" /></a>
+<a href="https://generalassembly.wistia.com/medias/sjnhxrdelv"><img src="https://embed-ssl.wistia.com/deliveries/8e435f26a2b9344c4e98e208634601710ec4dc52.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="cli" width="450" height="253" /></a>
 
 ## Test Yourself!
 # Where in the World?!
