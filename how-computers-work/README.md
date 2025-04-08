@@ -5,7 +5,7 @@
 
 ## How Computers Work ( 20 min )
 
-_author: [Riley Dallas](https://generalassemb.ly/instructors/riley-dallas/8760) | web developer and data scientist_
+*author: [Riley Dallas](https://generalassemb.ly/instructors/riley-dallas/8760) : web developer and data scientist*
 
 ----
 <br>
