@@ -1,5 +1,3 @@
-[TODO] in general need the popups for incorrect responses as well.
-
 ## Command Line Interface
 
 ### Knowledge Check
