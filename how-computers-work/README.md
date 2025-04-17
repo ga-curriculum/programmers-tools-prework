@@ -23,7 +23,7 @@ Take a quick glance around you and count up the number of computers you see in y
 
 Once you’re done counting keep reading.
 
-![](./assets/tablet.png)
+<img src="./assets/tablet.png" width="200" />
 
 <br>
 
@@ -42,7 +42,7 @@ The fact of the matter is, computers are everywhere around us, but most of us ha
 
 In this lesson, we’ll give you a quick introduction so you can better understand what makes these powerful and omnipresent tools tick.
 
-![](./assets/computers.png)
+<img src="./assets/computers.png" width="600" />
 
 <br>
 
@@ -73,7 +73,7 @@ Now that you understand a bit about how computers developed over time — from t
 
 This diagram highlights the key components of a modern computing device. Let’s break these down and discover how they work together to help you FaceTime your parents. Which, by the way, you should really do more often. Seriously, call your parents.
 
-![](./assets/flow.png)
+<img src="./assets/flow.png" width="650" />
 
 <br>
 
@@ -85,7 +85,7 @@ Some inputs don’t require human intervention at all: Your fancy smart thermost
 
 Regardless of how the information is collected, every computer needs inputs in order to work.
 
-![](./assets/input.png)
+<img src="./assets/input.png" width="350" />
 
 <br>
 
@@ -97,7 +97,7 @@ Because they can’t think for themselves (yet), computers can only process info
 
 However, computers don’t understand natural language like we do. In order to communicate instructions to a computer, these instructions must be written in code, also known as **programming languages**.
 
-![](./assets/process.png)
+<img src="./assets/process.png" width="350" />
 
 <br>
 
@@ -105,7 +105,7 @@ However, computers don’t understand natural language like we do. In order to c
 
 As computers process inputs based on these sets of instructions, they store the resulting information in memory until all of the processing is complete and ready to be sent out.
 
-![](./assets/store.png)
+<img src="./assets/store.png" width="350" />
 
 <br>
 
@@ -117,7 +117,7 @@ Your personal computer or your mobile device outputs images, videos, text, sound
 
 Sometimes, the output of one computer might be the input for another, like when your coworker sends you a message via your office chat saying there are free donuts on the third floor. Good looking out, Karen!
 
-![](./assets/output.png)
+<img src="./assets/output.png" width="350" />
 
 <br>
 
