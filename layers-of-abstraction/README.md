@@ -21,7 +21,7 @@
 
 **Binary** is the language that all computers speak at their most basic level. It’s a *machine language* that’s generally unreadable by humans. Luckily for all of us, we don’t have to start communicating in 1s and 0s in order to use computers or even program them.
 
-![](./assets/binary.png)
+<img src="./assets/binary.png" width="550" />
 
 <br>
 
@@ -39,7 +39,7 @@ Initially, computers were huge room-sized machines that used vacuum tubes and el
 
 Humans input conditionals — true/false statements — and the tubes took care of the rest.
 
-![](./assets/yesno.png)
+<img src="./assets/yesno.png" width="350" />
 
 <br>
 
@@ -49,13 +49,13 @@ As we mentioned, the “language” the computer speaks to itself is a **machine
 
 For example, in binary, the word “cat” would be represented as the following...
 
-![](./assets/cat.png)
+<img src="./assets/cat.png" width="450" />
 
 <br>
 
 ...whereas the word “car” would be represented by this:
 
-![](./assets/car.png)
+<img src="./assets/car.png" width="450" />
 
 <br>
 
@@ -71,7 +71,7 @@ For our purposes, we’ll explore how hardware and software work together to all
 
 So far, we’ve covered machine language — again, that’s the series of 1s and 0s that computers understand.
 
-![](./assets/layers.png)
+<img src="./assets/layers.png" width="350" />
 
 <br>
 
@@ -103,7 +103,7 @@ By contrast, the **command line interface** (CLI) — also called a **terminal**
 
 As a general rule of thumb, the *prettier* your screen, the greater your level of abstraction. The CLI is extremely utilitarian, with no pictures, no colors, just text.
 
-![](./assets/gui.png)
+<img src="./assets/gui.png" width="600" />
 
 <br>
 
@@ -115,7 +115,7 @@ As we get further away from binary, the computer’s true language, we lose some
 
 Most of us don’t miss that functionality and, in fact, don’t even know what we’re missing. For computer experts like software engineers, computer scientists, and programmers, however, that functionality is crucial and dearly missed. This is why they often prefer to operate a bit closer to the computer’s original language.
 
-![](./assets/wrap.png)
+<img src="./assets/wrap.png" width="500" />
 
 <br>
 
