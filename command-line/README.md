@@ -24,7 +24,7 @@ When most computer users want to find files on their computers, they use a graph
 
 When developers navigate their computers, they tend to use the command line interface — commonly referred to as the “command line,” or “CLI.”
 
-![](./assets/gui.png)
+<img src="./assets/gui.png" width="750" />
 
 <br>
 
@@ -44,7 +44,7 @@ You're already familiar with GUIs or Graphical User Interfaces. A GUI lets users
 
 We interact with this interface by typing commands on the command line and then executing them. Everyday tasks you would accomplish from a GUI can also be performed in the CLI. For example, creating, modifying, and deleting files and directories, launching apps, changing application/system settings, and more.
 
-![](./assets/cli.png)
+<img src="./assets/cli.png" width="600" />
 
 <br>
 
@@ -89,13 +89,13 @@ By default, our terminal starts in what is referred to as the **home directory**
 
 Mac users:
 
-![](./assets/mac.png)
+<img src="./assets/mac.png" width="500" />
 
 <br>
 
 Windows users:
 
-![](./assets/windows.png)
+<img src="./assets/windows.png" width="700" />
 
 <br>
 
@@ -124,7 +124,7 @@ Notice that we have control over when this command is executed. If you make a ty
 
 No typos? All ready to run this? Hit Enter!
 
-![](./assets/who.png)
+<img src="./assets/who.png" width="700" />
 
 <br>
 
@@ -138,7 +138,7 @@ Let's try an invalid command, just to see what happens:
 
 Again, after you've typed this in, hit `Enter` to execute it.
 
-![](./assets/blah.png)
+<img src="./assets/blah.png" width="700" />
 
 <br>
 
@@ -162,13 +162,13 @@ Imagine you were finding a can of soup at a store. You would start in the store,
 
 Suppose we visualized this:
 
-![](./assets/file.png)
+<img src="./assets/file.png" width="750" />
 
 <br>
 
 There is a clear path to our soup! What if we added some other parts of a store to our example?
 
-![](./assets/files.png)
+<img src="./assets/files.png" width="750" />
 
 <br>
 
@@ -180,7 +180,7 @@ You'd start in the *root* directory - `/`. This directory holds all the other di
 
 Another visual for you:
 
-![](./assets/music.png)
+<img src="./assets/music.png" width="750" />
 
 <br>
 
@@ -222,7 +222,7 @@ The `~` we see in the prompt on the command line example below is shorthand for 
 
 `pwd`
 
-![](./assets/pwd.png)
+<img src="./assets/pwd.png" width="700" />
 
 <br>
 
@@ -247,7 +247,7 @@ Try it:
 
 Ta-da! We’re speaking in a language our computer understands. This command lists the directory’s contents, something similar to:
 
-![](./assets/ls.png)
+<img src="./assets/ls.png" width="700" />
 
 <br>
 
@@ -255,7 +255,7 @@ The output of this command may be different for you, but that's okay!  If you're
 
 The visual below might help demonstrate what's happening here. The student directory (the current working directory) has been highlighted in blue. From this directory, the `ls` command will display its direct children, shown in dark gray. The other files and directories still exist. They aren't shown by this command though.
 
-![](./assets/lsviz.png)
+<img src="./assets/lsviz.png" width="750" />
 
 <br>
 
@@ -299,7 +299,7 @@ In this line, `cd` is the command, and `Music` is the *command argument*. Notice
 
 `Music` is also a *relative path*. A *relative path* is the path from the perspective of the current directory. We'll use relative paths more often than absolute paths.
 
-![](./assets/cd.png)
+<img src="./assets/cd.png" width="750" />
 
 <br>
 
@@ -402,7 +402,7 @@ In your code directory, create a `ga` directory to hold everything you do at Gen
 
 When you're done, you should be able to run the `ls` command in the `ga` directory and see something similar to the following:
 
-![](./assets/ga.png)
+<img src="./assets/ga.png" width="700" />
 
 <br>
 
@@ -430,7 +430,7 @@ Use the command line to do the following:
 
 ## Hint...
 
-![](./assets/mag.png)
+<img src="./assets/mag.png" width="300" />
 
 <br>
 
