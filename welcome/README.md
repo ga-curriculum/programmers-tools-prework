@@ -60,7 +60,7 @@ Your ability to succeed in this program is not determined by background but by y
 
 Have you ever had a shopping website suggest a product to you? What about a credit card put on hold because of fraud detection? How many times a day do you do a Google search?
 
-![](./assets/dsworld.png)
+<img src="./assets/dsworld.png" width="650" />
 
 <br>
 
@@ -82,7 +82,7 @@ In general, data science is defined as the practice of extracting insights from 
 
 Put plainly, it’s the application of scientific techniques to data to solve problems.
 
-![](./assets/dsis.png)
+<img src="./assets/dsis.png" width="650" />
 
 <br>
 
@@ -116,7 +116,7 @@ Different data science roles require different skill sets. For instance, skills 
 
 The skills that General Assembly Immersive students learn align most closely with those used by data scientists on the job. Students gain knowledge to apply to a wide range of roles and projects, focusing on the foundations of stats, programming, and machine learning.
 
-![](./assets/roles.png)
+<img src="./assets/roles.png" width="700" />
 
 <br>
 
@@ -134,7 +134,7 @@ Most data scientists apply a version of the scientific method to analyze an issu
 
 5. **Communicate**: Present insights from your data to different audiences.
 
-![](./assets/flow.png)
+<img src="./assets/flow.png" width="850" />
 
 <br>
 
@@ -164,7 +164,7 @@ We might begin by asking questions like:
 - Are previous Planetary Express customers likely to request a repeat delivery?
 - What factors are likely to influence a customer’s decision to reuse Planetary Express for delivery?
 
-![](./assets/frame.png)
+<img src="./assets/frame.png" width="350" />
 
 <br>
 
@@ -185,7 +185,7 @@ Solving problems with data may require you to work with a number of different da
 - Data from files (e.g., CSV, XML, TXT, JSON).
 - Data from pre-existing databases (e.g., SQL, NoSQL, AWS).
 
-![](./assets/prep.png)
+<img src="./assets/prep.png" width="350" />
 
 <br>
 
@@ -211,7 +211,7 @@ Our goal is to verify the quality of the data set we’ve been given so that we 
 
 Here’s an example that lists the variable, description, and type of variables we’ve been given:
 
-![](./assets/table.png)
+<img src="./assets/table.png" width="550" />
 
 <br>
 
@@ -252,7 +252,7 @@ Depending on the problem we’re trying to solve (and the type of data we’re w
 
 To do this, you might start by calculating some basic statistics or visualizing relationships between specific variables.
 
-![](./assets/analyze.png)
+<img src="./assets/analyze.png" width="350" />
 
 <br>
 
@@ -272,7 +272,7 @@ How does this work? We might:
 
 Our hypothesis from Step 1 should guide our approach and analysis in Steps 2 and 3. In Step 4, our goal is to create a general model that interprets our data and resolves our hypothesis. Once we’ve tested this model on new data, we’ll be able to use it to make predictions and justify future decisions.
 
-![](./assets/interpret.png)
+<img src="./assets/interpret.png" width="350" />
 
 <br>
 
@@ -294,7 +294,7 @@ In Step 5, it’s time to **communicate** our results and recommendations to an 
 
 In our Planetary Express example, this might mean informing the board about our findings and suggesting that our team take immediate action to resolve future issues.
 
-![](./assets/find.png)
+<img src="./assets/find.png" width="350" />
 
 <br>
 
@@ -325,7 +325,7 @@ A few key components to consider, include:
 
 There you have it — General Assembly’s Data Science Workflow at a high level. This problem-solving framework will serve as your guide throughout our programs (and your career).
 
-![](./assets/flow.png)
+<img src="./assets/flow.png" width="850" />
 
 <br>
 
