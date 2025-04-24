@@ -5,7 +5,7 @@
 
 ## About
 
-Welcome to our rogramming Tools! In just over an hour, this mini course will introduce you to a couple essential tools for Data Science and complete the pre-work modules. You'll learn about the way computers work, how we communicate with computers, and the Command Line Interface. Designed for beginners, this program is your first step towards using your computer like a Data Scientist, mainly getting comfortable navigating the Command Line. Dive in and start your computer navigation journey here!
+Welcome to our Programming Tools! In just over an hour, this mini course will introduce you to a couple essential tools for Data Science and complete the pre-work modules. You'll learn about the way computers work, how we communicate with computers, and the Command Line Interface. Designed for beginners, this program is your first step towards using your computer like a Data Scientist, mainly getting comfortable navigating the Command Line. Dive in and start your computer navigation journey here!
 
 ## Content
 
