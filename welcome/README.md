@@ -7,7 +7,7 @@
 
 We couldn’t be more excited to join you in your journey toward a new career. By incorporating feedback from hundreds of students that have come before you, we’ve focused on making this course as worthwhile as possible. You have exciting work ahead, but it’s going to take energy, time, and collaboration.
 
-GA’s Data Science Bootcamp will give you a deep dive into the world of data science and its many applications.
+GA’s Data Science program will give you a deep dive into the world of data science and its many applications.
 
 You’ll analyze massive data sets and predict what happens next through predictive modeling and pattern recognition. By the end of this course, you’ll have a polished portfolio of work that showcases your ability to distill insights with machine learning in a way that is impactful to key stakeholders.
 
