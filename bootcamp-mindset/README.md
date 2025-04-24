@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">The Programmer's Tools</span>
-  <span class="subhead">Bootcamp Mindset</span>
+  <span class="subhead">Growth Mindset</span>
 </h1>
 
 ## Harnessing your mindset to succeed
@@ -44,7 +44,7 @@ Problem-solving is a team sport. Often, you can solve problems more quickly and 
 
 Working in a team also promotes a sense of accountability. When you're working with others, you're more likely to show up and put in the effort because you know that others are counting on you.
 
-## Bootcamp mindset -> life mindset
+## Classroom mindset -> life mindset
 
 These mindsets are skills that show you're adaptable, resilient, and able to overcome obstacles.
 
