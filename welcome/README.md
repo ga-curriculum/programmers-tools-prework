@@ -116,19 +116,19 @@ The skills that General Assembly Data Science students learn align most closely 
 
 ## How Do Data Scientists Solve Problems?
 
-Most data scientists apply a version of the scientific method to analyze an issue. At General Assembly, we call this the **Data Science Workflow**, and we’ve broken it down into a series of steps.
+Most data scientists apply a version of the scientific method to analyze an issue. At General Assembly, we call this the **Data Science Lifecycle**, and we’ve broken it down into a series of steps.
 
-1. **Frame**: Develop a hypothesis-driven approach to your analysis.
+1. **Frame the Problem**: Understand and articulate the business need and define success metrics.
 
-2. **Prepare**: Select, import, explore, and clean your data.
+2. **Prepare and Explore Your Data**: Gather, clean, explore and transform data for analysis.
 
-3. **Analyze**: Structure, visualize, and complete your analysis.
+3. **Model**: Select the right model, train it, and evaluate its performance.
 
-4. **Interpret**: Create recommendations and business decisions from your data.
+4. **Communicate**: Clearly communicate insights from your model.
 
-5. **Communicate**: Present insights from your data to different audiences.
+5. **Deploy, Monitor and Maintain**: Deploy models, monitor performance and address issues to maintain effectiveness.
 
-<img src="./assets/flow.png" width="850" />
+<img src="./assets/ds.png" width="850" />
 
 <br>
 
@@ -136,7 +136,7 @@ Most data scientists apply a version of the scientific method to analyze an issu
 
 Our problem-solving framework helps produce results that are **reliable** (so findings are more accurate) and **reproducible** (so that others can follow the same steps and achieve the same results).
 
-Note that, depending on the problem you’re trying to solve, the Data Science Workflow will not always be linear. You may have to repeat some steps before drawing any conclusions!
+Note that, depending on the problem you’re trying to solve, the Data Science Lifecycle will not always be linear. You may have to repeat some steps before drawing any conclusions!
 
 We’ll explore these steps through an example project in the following sectoins.
 
@@ -162,7 +162,7 @@ We might begin by asking questions like:
 
 <br>
 
-## Step 2: Preparing Our Data
+## Step 2: Preparing and Exploring Our Data
 
 In Step 2, we **prepare** our data. To start, we’ll want to select and import the data we intend to use. We might do this by asking a series of questions:
 
@@ -197,7 +197,7 @@ We have the following Planetary Express data:
 
 So, what do we need to do next?
 
-## Step 2: Preparing Our Data (Cont.)
+## Step 2: Preparing and Exploring Our Data (Cont.)
 
 If you guessed, “Figure out a way to load our data and take a look at it,” you’d be right! There are many ways to do this in Python (a back-end programming language). Let’s skip to the next step and begin exploring our data.
 
@@ -217,7 +217,7 @@ Looks like we have some cleaning to do.
 
 Whether you’ve collected your own data or are working with data prepared by others, you’ll almost *always* need to devote some energy to cleaning.
 
-## Step 2: Preparing Our Data (Cont.)
+## Step 2: Preparing and Exploring Our Data (Cont.)
 
 Data scientists frequently joke that they spend about 80 percent of their time cleaning data and only 20 percent actually creating predictive models. In other words, *data cleaning is a fact of life*.
 
@@ -232,7 +232,7 @@ Data cleaning methods include, but are not exclusive to:
 - Sample your data.
 - Create columns derived from our data (e.g., feature engineering).
 
-## Step 3: Analyzing Our Data
+## Step 3: Modeling Our Data
 
 Let’s assume we’ve finished up and our data set is now squeaky clean. Bravo! Time to move on.
 
@@ -250,7 +250,7 @@ To do this, you might start by calculating some basic statistics or visualizing 
 
 <br>
 
-## Step 4: Interpreting Our Data
+## Step 3: Modeling Our Data (Cont.)
 
 Once we’ve visualized and analyzed our data, we’ll be able to **interpret** it. But, what does that mean?
 
@@ -266,10 +266,6 @@ How does this work? We might:
 
 Our hypothesis from Step 1 should guide our approach and analysis in Steps 2 and 3. In Step 4, our goal is to create a general model that interprets our data and resolves our hypothesis. Once we’ve tested this model on new data, we’ll be able to use it to make predictions and justify future decisions.
 
-<img src="./assets/interpret.png" width="350" />
-
-<br>
-
 You may be thinking, “Is it really that simple?”
 
 Yes and no. We’ve simplified this process a bit; selecting and building models is both an art and a science. For one thing, there are *many* different types of models and approaches to choose from.
@@ -278,7 +274,7 @@ However, most data practitioners don’t memorize all of them — they merely le
 
 General Assembly’s data science training helps students learn about a variety of methods that can be used to solve more than 70 percent of data problems people encounter in the field, including regression, classification, k-nearest neighbors, clustering, and more!
 
-## Step 5: Communicating Our Findings
+## Step 4: Communicating Our Findings
 
 Once you’ve successfully built a model that can interpret your data and help justify real-world recommendations, what next?
 
@@ -315,19 +311,28 @@ A few key components to consider, include:
 - Explaining your model’s strengths and limitations.
 - Providing an appropriate degree of disclosure for your audience (especially when dealing with proprietary data or sensitive user information).
 
-## Off We Go!
 
-There you have it — General Assembly’s Data Science Workflow at a high level. This problem-solving framework will serve as your guide throughout our programs (and your career).
+## Step 5: Deploying, Monitoring & Maintaining Our Model
 
-<img src="./assets/flow.png" width="850" />
+Now that you’ve built a model and got buy-in that it should be used, you need to use it with real data.
+
+Step 5 involves implementing the data science solution in a real-world environment, continuously monitoring its performance, and maintaining its effectiveness over time.
+
+This includes addressing any issues that arise, updating the model with new data patterns, and ensuring the solution continues to meet business needs.
+
+In our Planetary Express example, this might mean that we can identify in real-time whether a user is likely to become a repeat customer at the point they are booking in a shipping order, and we can then offer different products for those who are likely compared with those who are not likely to repeat.
+
+<img src="./assets/interpret.png" width="350" />
 
 <br>
 
-## Wrap Up: The Data Science Workflow
 
-Here is another visual that breaks down this process with an added component at the end, Deploying, Monitoring, and Maintaining.  As you can see there is no one particular linear process that applies to every single project, and this is something you will get very familiar with via you own projects.  
+## Off We Go!
 
-![](./assets/ds.png)
+There you have it — General Assembly’s Data Science Lifecycle at a high level. This problem-solving framework will serve as your guide throughout our programs (and your career).
+
+<img src="./assets/ds.png" width="850" />
+
 
 <br>
 
