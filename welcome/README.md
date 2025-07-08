@@ -3,7 +3,7 @@
   <span class="subhead">Welcome</span>
 </h1>
 
-## Welcome to Data Science! (1 hr.)
+## Welcome to Data Science!
 
 We couldn’t be more excited to join you in your journey toward a new career. By incorporating feedback from hundreds of students that have come before you, we’ve focused on making this course as worthwhile as possible. You have exciting work ahead, but it’s going to take energy, time, and collaboration.
 
@@ -37,13 +37,7 @@ Chances are, you’re here at least in part because you’re looking for change 
 
 Your ability to succeed in this program is not determined by background but by your ability to learn new things quickly. Much of this will be facilitated through projects, but you may have to start being more inquisitive, more analytical, and rethink how you learn. Buckle up!
 
-## Getting the Most From Your Experience
-
-<a href="https://generalassembly.wistia.com/medias/ijg94y0yuj"><img src="https://embed-ssl.wistia.com/deliveries/2cce550833bd5cf233483d8bff907a52c196edcb.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="intro" width="450" height="253" /></a>
-
-## Some Words of Advice
-
-<a href="https://generalassembly.wistia.com/medias/mmm8flbd83"><img src="https://embed-ssl.wistia.com/deliveries/cf893e0b6a2dd954e9451812933ab89643bec419.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="control-flow" width="450" height="253" /></a>
+If you're taking one of our Bootcamps, then watch the videos at the bottom of this page on getting the most from your experience and some words of advice on learning.
 
 ----
 # What Is Data Science?
@@ -114,7 +108,7 @@ First off, it’s important to understand the skills involved. Data scientists c
 
 Different data science roles require different skill sets. For instance, skills used by researchers aren’t the same as those used by developers.
 
-The skills that General Assembly Immersive students learn align most closely with those used by data scientists on the job. Students gain knowledge to apply to a wide range of roles and projects, focusing on the foundations of stats, programming, and machine learning.
+The skills that General Assembly Data Science students learn align most closely with those used by data scientists on the job. Students gain knowledge to apply to a wide range of roles and projects, focusing on the foundations of stats, programming, and machine learning.
 
 <img src="./assets/roles.png" width="700" />
 
@@ -282,7 +276,7 @@ Yes and no. We’ve simplified this process a bit; selecting and building models
 
 However, most data practitioners don’t memorize all of them — they merely learn to associate certain kinds of problems with certain kinds of models. When they encounter new problems, they do what any of us do: [They look them up](https://datascience.stackexchange.com/)!
 
-General Assembly’s data science training helps students learn about a variety of methods that can be used to solve more than 70 percent of data problems people encounter in the field, including regression, classification, k-nearest neighbors, clustering, decision trees and random forests, and more!
+General Assembly’s data science training helps students learn about a variety of methods that can be used to solve more than 70 percent of data problems people encounter in the field, including regression, classification, k-nearest neighbors, clustering, and more!
 
 ## Step 5: Communicating Our Findings
 
@@ -336,6 +330,20 @@ Here is another visual that breaks down this process with an added component at 
 ![](./assets/ds.png)
 
 <br>
+
+# Are you taking one of our Bootcamps?
+Then watch these videos on getting the most from your experience and some words of advice.
+
+## Getting the Most From Your Experience
+
+<a href="https://generalassembly.wistia.com/medias/ijg94y0yuj"><img src="https://embed-ssl.wistia.com/deliveries/2cce550833bd5cf233483d8bff907a52c196edcb.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="intro" width="450" height="253" /></a>
+
+## Some Words of Advice
+
+<a href="https://generalassembly.wistia.com/medias/mmm8flbd83"><img src="https://embed-ssl.wistia.com/deliveries/cf893e0b6a2dd954e9451812933ab89643bec419.jpg?image_crop_resized=900x506&image_play_button=true&image_play_button_size=2x&image_play_button_color=222222e0" alt="control-flow" width="450" height="253" /></a>
+
+<br>
+
 
 ### Up Next...
 

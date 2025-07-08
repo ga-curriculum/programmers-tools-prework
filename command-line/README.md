@@ -448,7 +448,7 @@ Check out this [cheat sheet](https://www.git-tower.com/blog/command-line-cheat-s
 
 ### Up Next...
 
-We are going to chat about the Bootcamp Mindset.
+We are going to chat about the Data Science Course Mindset.
 
 <br>
 
