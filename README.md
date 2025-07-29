@@ -9,13 +9,13 @@ Welcome to our Programming Tools! In just over an hour, this mini course will in
 
 ## Content
 
-| Lesson                                                                           | Time        | Skills                                                                                                                                |
-| -------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [How Computers Work](./how-computers-work/README.md)                     | 20 min      | Intro to some computer history and basics of how they work
-| [Introducing the Layers of Abstraction](./layers-of-abstraction/README.md)                         | 15 min      | Define levels of abstraction and learn about the GUI vs. CLI                                                                            |
-| [Accessing and Navigating the Command Line Interface](./command-line/README.md) | 50 min      | Explain the CLI and begin using it |
-| [Growth Mindset](./bootcamp-mindset/README.md)                 | 10 min      | Some tips on succeeding in a classrom structure                       |
-| **Total content**                                                                | 1 hr 35 min |                                         |
+| Lesson                                                                          | Time        | Skills                                                        |
+| ------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------- |
+| [How Computers Work](./how-computers-work/README.md)                            | 20 min      | Intro to some computer history and basics of how they work.   |
+| [Introducing the Layers of Abstraction](./layers-of-abstraction/README.md)      | 15 min      | Define levels of abstraction and learn about the GUI vs. CLI. |
+| [Accessing and Navigating the Command Line Interface](./command-line/README.md) | 50 min      | Explain the CLI and begin using it.                           |
+| [Growth Mindset](./growth-mindset/README.md)                                    | 10 min      | Some tips on succeeding in a classroom structure.             |
+| **Total content**                                                               | 1 hr 35 min |                                                               |
 
 ## References
 
