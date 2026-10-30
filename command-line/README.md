@@ -415,7 +415,7 @@ When you're done, you should be able to run the `ls` command in the `ga` directo
 
 Time to try out command line on your own!
 
-We’ve gone ahead and created a new directory for you called `world`. Download it [here](https://ga-instruction.s3.amazonaws.com/assets/tech/accessing-and-navigating-the-cli/World.zip).
+We’ve gone ahead and created a new directory for you called `world`. Download it [here](../assets/tech/accessing-and-navigating-the-cli/World.zip).
 
 When you double-click on the zip file, it will create a new directory named `world` next to it in your `Downloads` directory.
 
